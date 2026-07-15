@@ -1,5 +1,5 @@
-# deepns-analytics
-Web analytics that tells you which traffic turns into cash. Consent-native, GDPR-compliant, revenue-attributed.
+# DEEPNS ANALYTICS
+Deepns is the revenue data layer for European SMBs that tells you which traffic turns into cash. Consent-native, GDPR-compliant, revenue-attributed.
 
 # Deepns Widget — Installation Guide
  
